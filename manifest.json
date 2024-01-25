@@ -1,0 +1,17 @@
+{
+    "name": "Catalogo de videos",
+    "short_name": "CatVideos",
+    "theme_color": "#cb2237",
+    "background_color": "#cb2237",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./img/pubgIcon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
